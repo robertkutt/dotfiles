@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = robert.kutt@gmail.com
+	name = Robert Kutt
